@@ -1,0 +1,15 @@
+srcscan starts
+=============== Using vdb files for VHDL std libs ===========
+INFO: The vhdl library search path for library "std" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/std" (VHDL-1505)
+INFO: The vhdl library search path for library "synopsys" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/synopsys" (VHDL-1505)
+INFO: The vhdl library search path for library "ieee" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/ieee" (VHDL-1505)
+INFO: The vhdl library search path for library "unimacro" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/unimacro" (VHDL-1505)
+INFO: The vhdl library search path for library "unisim" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/unisim" (VHDL-1505)
+INFO: The vhdl library search path for library "vl" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/vl" (VHDL-1505)
+INFO: The vhdl library search path for library "xpm" is now "/tools/Xilinx/Vivado/2021.1/data/precomp_hsv/vhdl/xpm" (VHDL-1505)
+INFO: analyzing module Top_matrixMult_0_0 (VERI-9002)
+INFO: analyzing module Top_matrixMult_0_0_matrixMult (VERI-9002)
+INFO: analyzing module glbl (VERI-9002)
+/home/aalopz/Desktop/Sample-Projects/Project-0/FPGA-A100T-2/project/project.gen/sources_1/bd/Top/ip/Top_matrixMult_0_0/Top_matrixMult_0_0_sim_netlist.v(4194303): WARNING: identifier 'ROC_WIDTH' is used before its declaration (VERI-1875)
+/home/aalopz/Desktop/Sample-Projects/Project-0/FPGA-A100T-2/project/project.gen/sources_1/bd/Top/ip/Top_matrixMult_0_0/Top_matrixMult_0_0_sim_netlist.v(4194303): WARNING: identifier 'GRES_START' is used before its declaration (VERI-1875)
+INFO: analyzing module matrixMult (VERI-9002)
